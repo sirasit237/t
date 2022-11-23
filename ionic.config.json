@@ -1,0 +1,7 @@
+{
+  "name": "angular_blank",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
